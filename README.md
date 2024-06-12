@@ -1,11 +1,10 @@
 # Hi there 👋, I'am Naoures Hamrouni
 
-I am an ICT engineer who graduated from the Higher School of Communication of Tunis, one of the top engineering schools in Tunisia. Currently, I am pursuing my master's degree in ICT with a specialization in Internet and Multimedia, focusing on Machine Learning at the University of Padua Italy, which is ranked 115th in the Shanghai Ranking.
+I am an ICT engineer who graduated from the Higher School of Communication of Tunis 🎓, one of the top engineering schools in Tunisia. Currently, I am pursuing my master's degree in ICT with a specialization in Internet and Multimedia 📚, focusing on Machine Learning 🤖 at the University of Padua (@unipd), which is ranked 115th in the Shanghai Ranking 🌟.
 
-I am passionate about research projects in innovative domains and developing new solutions for companies and research laboratories. I firmly believe that the synergy between research and industry is crucial for advancing technology.
+I am passionate about research projects in innovative domains and developing new solutions for companies and research laboratories 🧪. I firmly believe that the synergy between research and industry is crucial for advancing technology 🚀.
 
-I am always eager to collaborate and contribute to exciting projects.
-
+I am always eager to collaborate and contribute to exciting projects 🤝.
 ## My Skills
 
 ### Programming Languages
